@@ -1,2 +1,3 @@
 # react_fun
 Figuring out react, these are prop-less and state-less files, will upload those at a later time
+This file basically showcases a few things - one, how React can be used to create "tiles", each of which can act as it's own "app". This means that every tile has the potential to do almost anything through javascript. All these tiles will be centered within the main tile, so if needed, we can have tile-ception to any degree. Each tile within this tile-ception has the potential to be an entire app with full on javascript ability. Webpack and Babel make it easier to code, and CSS in-line styles (of which the syntax is very different) can be a nice edition (although I don't think I used it as well as I could have). JSX itself is a very nice system.
